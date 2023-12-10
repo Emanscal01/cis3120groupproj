@@ -1,6 +1,2 @@
 # cis3120groupproj
-# cis3120groupproj
-# cis3120groupproj
-# cis3120groupproj
-# cis3120groupproj
-# cis3120groupproj
+it works now lmao
