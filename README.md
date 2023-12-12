@@ -5,7 +5,7 @@ it works now lmao
 
 "combined" pandas data frame, variable has the daily prices for a given stock and the SPY in descending order with dates
 
-"combinedPC" pandas data frame, variable has the daily percent changes for a given stock and the SPY in descending order with dates
+"combinedPC" pandas data frame, variable has the daily percent changes for a given stock and the SPY in descending order with dates, already in percentage form
 
 "ticker" string, variable is the ticker inputted by user, is all uppercase, may have numbers
 
